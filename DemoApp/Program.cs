@@ -16,7 +16,7 @@ namespace DemoApp
     internal sealed class Program
     {
         private const string BrokerEndpoints = "127.0.0.1";
-        private const string Topic = "dotnext-moscow-2017";
+        private const string Topic = "highload-2017";
 
         private static void Main(string[] args)
         {
